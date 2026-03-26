@@ -1,0 +1,16 @@
+{
+  "name": "companion-module-tallycomm",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "main.js",
+  "author": "Noctavox Films",
+  "keywords": [
+    "tally",
+    "broadcast",
+    "camera"
+  ],
+  "dependencies": {
+    "@companion-module/base": "^1.14.0"
+  }
+}

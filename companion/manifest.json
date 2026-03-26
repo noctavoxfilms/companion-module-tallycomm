@@ -1,0 +1,22 @@
+{
+  "id": "tallycomm",
+  "name": "tallycomm",
+  "shortname": "TallyComm",
+  "description": "Send PGM/PVW tally to smartphone cameras via TallyComm broadcast intercom",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "git+https://github.com/noctavoxfilms/companion-module-tallycomm.git",
+  "bugs": "https://github.com/noctavoxfilms/companion-module-tallycomm/issues",
+  "maintainers": [{"name": "Noctavox Films", "email": "hello@tallycomm.com"}],
+  "legacyIds": [],
+  "runtime": {
+    "type": "node22",
+    "api": "nodejs-ipc",
+    "apiVersion": "1.12.1",
+    "entrypoint": "../main.js"
+  },
+  "manufacturer": "TallyComm",
+  "products": ["TallyComm"],
+  "keywords": ["tally", "broadcast", "camera", "intercom", "smartphone"],
+  "isPrerelease": false
+}
