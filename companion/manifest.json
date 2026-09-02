@@ -4,7 +4,7 @@
 	"name": "noctavoxfilms-tallycomm",
 	"shortname": "TallyComm",
 	"description": "Send PGM/PVW tally to smartphone cameras via TallyComm broadcast intercom — no hardware needed",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-noctavoxfilms-tallycomm.git",
 	"bugs": "https://github.com/bitfocus/companion-module-noctavoxfilms-tallycomm/issues",

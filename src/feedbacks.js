@@ -1,4 +1,4 @@
-const MAX_CAMS = 6
+const MAX_CAMS = 8 // mirrors CFG.CAM_MAX on the TallyComm server
 
 module.exports.UpdateFeedbacks = function (self) {
 	const camChoices = []
